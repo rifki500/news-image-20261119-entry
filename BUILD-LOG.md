@@ -71,7 +71,7 @@ tanker). The entrypoint `main.py` (stdlib only) copies the pre-built
 ## Commit
 
 - Repository: https://github.com/rifki500/news-image-20261119-entry
-- Commit sha: (filled in after push)
+- Commit sha: 2f1aa744e09f2503102b2b70342e263d9b65936d
 
 ## Honest caveats
 
